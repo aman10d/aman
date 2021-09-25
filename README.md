@@ -1,4 +1,4 @@
-### Hola, I am AMAN TF 👋
+### Hola, I am AMAN  👋
 
  <p align="center">
  <img src = "images/7zon.gif" width ="300">
